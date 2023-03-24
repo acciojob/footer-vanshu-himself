@@ -1,4 +1,7 @@
 /* your code here */
+.media-icons{
+	display:flex;
+}
 body{
     background-color: black;
     color:white;
